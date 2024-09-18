@@ -1,11 +1,9 @@
-### <div align="center">I'm Yavuz, a Jr. Front-End Developer 👨‍💻 working as freelancer since 2014 🚀</div>  
+### <div align="center">I'm Yavuz, a Software Developer 👨‍💻 working since 2014 🚀</div>  
   
 
-- 🔭 I’m currently working on React Projects  
-  
+- 🔭 I’m currently working on Java Spring Boot, Vue.js Projects  
+   
 
-- ⚡ I’m currently learning ReactJS, NextJS, Tailwind and MaterialUI  
-  
 
 <br/>  
 
@@ -17,12 +15,16 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" />  
+ 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="VueJs" height="80" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Java Spring Boot" height="80" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="80" />  
+  
+
 </div>
 
 </td>
